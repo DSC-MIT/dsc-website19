@@ -1,2 +1,3 @@
-# GDG-Webite
-Website for the Developers Student Club and Women Tech makers.
+# DevFest19
+
+This branch has the source code for the official DevFest Manipal website.
